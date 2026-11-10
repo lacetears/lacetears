@@ -1,16 +1,13 @@
-## Hi there 👋
+# Caleb Ferretis
 
-<!--
-**lacetears/lacetears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Western Governors University, expected December 2026. Working toward CCNA, with project work in Python, SQL, application development and defensive security.
 
-Here are some ideas to get you started:
+My background includes management at Equinox and Crunch Fitness. I'm interested in entry-level technical support, IT operations and junior development roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Focus |
+| --- | --- |
+| [IT Help Desk](https://github.com/lacetears/it-helpdesk) | Flask and SQLite ticket workflows, validation, persistent history and automated tests |
+| [Retail Sales Analysis](https://github.com/lacetears/sales-analytics) | Python/SQL data cleaning, reconciled reporting and an interactive dashboard |
+| [Authentication Log Analyzer](https://github.com/lacetears/auth-log-analyzer) | JSONL validation and rolling-window detection using synthetic scenarios |
+
+[View the project demonstrations](https://lacetears.github.io/it-career-portfolio/). Each repository includes setup instructions, tests and technical limitations.
